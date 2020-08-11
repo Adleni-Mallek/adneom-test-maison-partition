@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="adneom-test-maison-partition:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/adneom_test_maison_partition_jar</output-path>
+    <root id="archive" name="adneom-test-maison-partition.jar">
+      <element id="module-output" name="adneom-test-maison-partition" />
+    </root>
+  </artifact>
+</component>
